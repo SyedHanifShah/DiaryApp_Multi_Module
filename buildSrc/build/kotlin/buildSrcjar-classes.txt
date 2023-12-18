@@ -1,0 +1,1 @@
+/Users/yaqoobshah/Documents/AndroidStudioProjects/DiaryApp_multi_module/buildSrc/build/classes/kotlin/main/ProjectConfig.class
